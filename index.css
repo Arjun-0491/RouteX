@@ -468,9 +468,45 @@ h1 {
     
   }
 
-
-
 }
 
+@media (min-width:787px)and (max-width:1440px){
+
+    header{
+padding: 20px 50px;
+ 
+    }
+.menu-toggle{
+    display: none;
+}
+.pages{
+    height: auto;
+}
+.pages2{
+height: auto;
+display: flex;
+ 
+  
+}
+.section1{
+   margin: 0;
+     width: 50%;
+  height: 100%;
+ 
+ 
+}
+.section1img{
+    width: 100%;
+    height: 100%;
+   
+}
+.pages3{
+    height: auto;
+    text-align: center;
+}
+.cards{
+    justify-content: space-around;
+}
+}
 
 
